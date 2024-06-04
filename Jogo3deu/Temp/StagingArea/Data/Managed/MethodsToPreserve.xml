@@ -1,0 +1,42 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ChangeScene">
+			<method name="Controlos"/>
+			<method name="Créditos"/>
+			<method name="Créditos"/>
+			<method name="Definições"/>
+			<method name="Definições"/>
+			<method name="Jogar"/>
+			<method name="Quitgame"/>
+			<method name="Voltar"/>
+			<method name="Voltar"/>
+			<method name="Voltar"/>
+		</type>
+		<type fullname="Inventory">
+			<method name="UpdateBananaText"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>
