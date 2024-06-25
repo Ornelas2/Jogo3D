@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed;
-    public float rotationSpeed;
-    public float jumpSpeed;
-    public float jumpButtonGracePeriod;
+    public float speed = 6.0f;
+    public float rotationSpeed = 720.0f;
+    public float jumpSpeed = 8.0f;
+    public float jumpButtonGracePeriod = 0.2f;
 
     private Animator animator;
     private CharacterController characterController;
@@ -13,6 +13,8 @@ public class PlayerMovement : MonoBehaviour
     private float originalStepOffset;
     private float? lastGroundedTime;
     private float? jumpButtonPressedTime;
+    private PlayerStun playerStun;
+
 
     private Quaternion initialRotationOffset; // Store the initial rotation offset applied to the player model
 
@@ -25,20 +27,22 @@ public class PlayerMovement : MonoBehaviour
 
         // Store the initial rotation offset applied to the player model
         initialRotationOffset = Quaternion.Euler(0, 180, 0); // Adjust the values if the rotation offset is different
+
+        playerStun = GetComponent<PlayerStun>();
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        float horizontalInput = Input.GetAxis("Horizontal");
-        float verticalInput = Input.GetAxis("Vertical");
+        float horizontalInput = -Input.GetAxis("Horizontal"); // Inverted horizontal input
+        float verticalInput = -Input.GetAxis("Vertical"); // Inverted vertical input
 
-        Vector3 movementDirection = new Vector3(horizontalInput, 0, verticalInput);
+        Vector3 movementDirection = transform.forward * verticalInput + transform.right * horizontalInput;
         float magnitude = Mathf.Clamp01(movementDirection.magnitude) * speed;
-        movementDirection.Normalize();
 
-        // Comment out the gravity line to disable gravity
-        // ySpeed += Physics.gravity.y * Time.deltaTime;
+        // Apply gravity
+        ySpeed += Physics.gravity.y * Time.deltaTime;
 
         if (characterController.isGrounded)
         {
@@ -72,19 +76,46 @@ public class PlayerMovement : MonoBehaviour
 
         characterController.Move(velocity * Time.deltaTime);
 
+        // Update rotation based on input
         if (movementDirection != Vector3.zero)
         {
-            animator.SetBool("IsMoving", true);
-            Quaternion targetRotation = Quaternion.LookRotation(movementDirection);
+            if (animator != null) animator.SetBool("IsMoving", true);
+
+            // Calculate target direction based on input
+            Vector3 targetDirection = transform.forward * verticalInput + transform.right * horizontalInput;
+
+            // Skip rotation if there's no input
+            if (targetDirection == Vector3.zero)
+            {
+                return;
+            }
+
+            // Create target rotation based on target direction
+            Quaternion targetRotation = Quaternion.LookRotation(targetDirection);
 
             // Apply the initial rotation offset to the target rotation
             targetRotation *= initialRotationOffset;
 
+            // Smoothly rotate towards the target rotation
             transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime);
         }
         else
         {
-            animator.SetBool("IsMoving", false);
+            if (animator != null) animator.SetBool("IsMoving", false);
         }
+
+        if (!playerStun.IsStunned())
+        {
+            float moveHorizontal = Input.GetAxis("Horizontal");
+            float moveVertical = Input.GetAxis("Vertical");
+
+            Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+            transform.Translate(movement * speed * Time.deltaTime, Space.World);
+        }
+        else
+        {
+            Debug.Log("Player is stunned, cannot move");
+        }
+
     }
 }

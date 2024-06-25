@@ -1,44 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\",
+  "WorkspaceRootPath": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|c:\\users\\marta ornelas\\documents\\github\\jogo-3d\\jogo3d\\jogo3deu\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|c:\\users\\marta ornelas\\documents\\github\\demo3d\\jogo3deu\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\coconutdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\coconutdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\aichase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\aichase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\Script\\Collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\v\u00EDdeomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\v\u00EDdeomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\v\u00EDdeomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\cutscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\cutscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cutscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\ChangeSceneControlos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\smoothcamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\assets\\script\\smoothcamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\smoothcamerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B61406C-42F1-2894-65C0-D39D7CC156AC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\Script\\Collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,11 +64,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "V\u00EDdeoManager.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\V\u00EDdeoManager.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\V\u00EDdeoManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\V\u00EDdeoManager.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\V\u00EDdeoManager.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\V\u00EDdeoManager.cs",
               "RelativeToolTip": "Assets\\Script\\V\u00EDdeoManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "CutsceneManager.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\CutsceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\CutsceneManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CutsceneManager.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\CutsceneManager.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\CutsceneManager.cs",
               "RelativeToolTip": "Assets\\Script\\CutsceneManager.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,35 +88,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ChangeSceneControlos.cs",
               "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\ChangeSceneControlos.cs",
-              "RelativeDocumentMoniker": "..\\..\\Jogo3deu\\Assets\\ChangeSceneControlos.cs",
+              "RelativeDocumentMoniker": "..\\..\\Jogo-3D\\Jogo3deu\\Assets\\ChangeSceneControlos.cs",
               "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\ChangeSceneControlos.cs",
-              "RelativeToolTip": "..\\..\\Jogo3deu\\Assets\\ChangeSceneControlos.cs",
+              "RelativeToolTip": "..\\..\\Jogo-3D\\Jogo3deu\\Assets\\ChangeSceneControlos.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T21:19:40.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAABNAAAA",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\Player.cs*",
+              "RelativeToolTip": "Assets\\Script\\Player.cs*",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:54:41.004Z",
+              "WhenOpened": "2024-06-02T20:38:38.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "CoconutDrop.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\CoconutDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CoconutDrop.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\CoconutDrop.cs",
+              "RelativeToolTip": "Assets\\Script\\CoconutDrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:02:01.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:54:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SmoothCamerafollow.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\SmoothCamerafollow.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\SmoothCamerafollow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SmoothCamerafollow.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\SmoothCamerafollow.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\SmoothCamerafollow.cs",
               "RelativeToolTip": "Assets\\Script\\SmoothCamerafollow.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,59 +148,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "PlayerInventory.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerInventory.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\PlayerInventory.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerInventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T21:33:36.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Banana.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\Banana.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Banana.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\Banana.cs",
+              "RelativeToolTip": "Assets\\Script\\Banana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:05:55.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\Inventory.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\Inventory.cs",
               "RelativeToolTip": "Assets\\Script\\Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T21:29:46.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\Player.cs",
-              "RelativeToolTip": "Assets\\Script\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AIChase.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\AIChase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AIChase.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\AIChase.cs",
+              "RelativeToolTip": "Assets\\Script\\AIChase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:38:38.416Z"
+              "WhenOpened": "2024-06-23T17:44:34.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Collectable.cs",
               "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\Script\\Collectable.cs",
-              "RelativeDocumentMoniker": "..\\..\\Jogo3deu\\Assets\\Script\\Collectable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Jogo-3D\\Jogo3deu\\Assets\\Script\\Collectable.cs",
               "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3deu\\Assets\\Script\\Collectable.cs",
-              "RelativeToolTip": "..\\..\\Jogo3deu\\Assets\\Script\\Collectable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "RelativeToolTip": "..\\..\\Jogo-3D\\Jogo3deu\\Assets\\Script\\Collectable.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T20:38:23.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ChangeScene.cs",
-              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\ChangeScene.cs",
+              "DocumentMoniker": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\ChangeScene.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ChangeScene.cs",
-              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Jogo-3D\\Jogo3D\\Jogo3deu\\Assets\\Script\\ChangeScene.cs",
+              "ToolTip": "C:\\Users\\Marta Ornelas\\Documents\\GitHub\\Demo3D\\Jogo3deu\\Assets\\Script\\ChangeScene.cs",
               "RelativeToolTip": "Assets\\Script\\ChangeScene.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
